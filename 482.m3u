@@ -1,59 +1,59 @@
 ﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF: -1 group-title="Общие", Первый канал
+#EXTINF: -1 group-title="Общие",Первый канал
 udp://@225.77.225.1:5000
-#EXTINF: -1 group-title="Общие", Россия 1
+#EXTINF: -1 group-title="Общие",Россия 1
 udp://@225.77.225.2:5000
-#EXTINF: -1 group-title="Общие", НТВ
+#EXTINF: -1 group-title="Общие",НТВ
 udp://@225.77.225.4:5000
-#EXTINF: -1 group-title="Общие", ТВ Центр
+#EXTINF: -1 group-title="Общие",ТВ Центр
 udp://@225.77.225.10:5000
-#EXTINF: -1 group-title="Общие", Пятый Канал
+#EXTINF: -1 group-title="Общие",Пятый Канал
 udp://@225.77.225.5:5000
-#EXTINF: -1 group-title="Общие", Звезда
+#EXTINF: -1 group-title="Общие",Звезда
 udp://@225.77.225.17:5000
-#EXTINF: -1 group-title="Общие", ОТР
+#EXTINF: -1 group-title="Общие",ОТР
 udp://@239.1.26.169:5000
-#EXTINF: -1 group-title="Общие", Суббота!
+#EXTINF: -1 group-title="Общие",Суббота!
 udp://@225.33.23.201:5000
-#EXTINF: -1 group-title="Общие", РЕН ТВ
+#EXTINF: -1 group-title="Общие",РЕН ТВ
 udp://@225.77.225.11:5000
-#EXTINF: -1 group-title="Общие", ТНТ
+#EXTINF: -1 group-title="Общие",ТНТ
 udp://@225.77.225.19:5000
-#EXTINF: -1 group-title="Общие", ТНТ4
+#EXTINF: -1 group-title="Общие",ТНТ4
 udp://@225.33.23.226:5000
-#EXTINF: -1 group-title="Общие", СТС
+#EXTINF: -1 group-title="Общие",СТС
 udp://@225.77.225.13:5000
-#EXTINF: -1 group-title="Общие", СТС Love
+#EXTINF: -1 group-title="Общие",СТС Love
 udp://@225.33.23.20:5000
-#EXTINF: -1 group-title="Общие", Пятница
+#EXTINF: -1 group-title="Общие",Пятница
 udp://@225.77.225.16:5000
-#EXTINF: -1 group-title="Общие", ТВ-3
+#EXTINF: -1 group-title="Общие",ТВ-3
 udp://@225.77.225.15:5000
-#EXTINF: -1 group-title="Общие", Домашний
+#EXTINF: -1 group-title="Общие",Домашний
 udp://@225.77.225.14:5000
-#EXTINF:-1 group-title="Общие " ,Ю
+#EXTINF:-1 group-title="Общие ",Ю
 udp://@225.33.23.205:5000
-#EXTINF: -1 group-title="Общие", Культура
+#EXTINF: -1 group-title="Общие",Культура
 udp://@225.77.225.6:5000
-#EXTINF: -1 group-title="Общие", Рыбинск-40
+#EXTINF: -1 group-title="Общие",Рыбинск-40
 udp://@239.1.26.183:5000
-#EXTINF: -1 group-title="Общие", Первый ярославский
+#EXTINF: -1 group-title="Общие",Первый ярославский
 udp://@239.1.26.181:5000
-#EXTINF: -1 group-title="Общие", Городской телеканал (Ярославль)
+#EXTINF: -1 group-title="Общие",Городской телеканал (Ярославль)
 udp://@239.1.26.182:5000
-#EXTINF: -1 group-title="Общие", Че
+#EXTINF: -1 group-title="Общие",Че
 udp://@225.33.23.101:5000
-#EXTINF: -1 group-title="Общие", Спас ТВ
+#EXTINF: -1 group-title="Общие",Спас ТВ
 udp://@239.1.26.172:5000
-#EXTINF: -1 group-title="Общие", Россия 24
+#EXTINF: -1 group-title="Общие",Россия 24
 udp://@239.1.26.167:5000
-#EXTINF: -1 group-title="Общие", МИР
+#EXTINF: -1 group-title="Общие",МИР
 udp://@225.77.225.18:5000
-#EXTINF: -1 group-title="Общие", МИР 24
+#EXTINF: -1 group-title="Общие",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF: -1 group-title="Общие", Москва-24
+#EXTINF: -1 group-title="Общие",Москва-24
 udp://@233.3.2.21:5000
-#EXTINF: -1 group-title="Общие", Москва. Доверие
+#EXTINF: -1 group-title="Общие",Москва. Доверие
 udp://@233.3.2.23:5000
 #EXTINF: -1 group-title="Общие",Оренбургское региональное телевидение
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
@@ -101,11 +101,11 @@ http://31.210.208.171:8080/box_tv/tracks-v1a1/mono.m3u8?token=+W2MSER
 http://31.210.208.171:8080/start/tracks-v1a1/mono.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Боец
 http://31.210.208.171:8080/match_boec/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://31.148.5.241/Match_Football_3_HD/index.m3u8
 #EXTINF: -1 group-title="Музыка",МУЗ-ТВ
 udp://@225.77.225.20:5000
@@ -117,27 +117,27 @@ http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF: -1 group-title="Музыка",MCM
 http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Музыка", RU TV
+#EXTINF: -1 group-title="Музыка",RU TV
 http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title='Музыка', Ля-минор ТВ
+#EXTINF:-1 group-title='Музыка',Ля-минор ТВ
 https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Музыка", Жара
+#EXTINF: -1 group-title="Музыка",Жара
 http://31.210.208.171:8080/jara/index.m3u8?token=+W2MSER
 #EXTINF: -1 group-title="Музыка",О2ТВ
 http://31.210.208.171:8080/o2/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
-#EXTINF:-1 group-title="Музыка", ТНТ Music
+#EXTINF:-1 group-title="Музыка",ТНТ Music
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
 #EXTINF:-1 group-title="Музыка",FON MUSIC
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
 http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge TV
+#EXTINF:-1 group-title="Музыка",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF: -1 group-title="Музыка", Retro Music
+#EXTINF: -1 group-title="Музыка",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF: -1 group-title="Музыка", Radio M2O 
+#EXTINF: -1 group-title="Музыка",Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:-1 group-title="Разные",ЛюксТВ Тутаев (8.00-20.00) 
 https://www.lux-tv.ru/tvstream/hls/mystream.m3u8
