@@ -97,8 +97,6 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 http://31.210.208.171:8080/khl/tracks-v1a1/mono.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://31.210.208.171:8080/box_tv/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт",MMA
-https://stream8.Cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Старт
 http://31.210.208.171:8080/start/tracks-v1a1/mono.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Боец
