@@ -119,13 +119,14 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
 #EXTINF:-1 group-title="Музыка",FON MUSIC
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
-#EXTINF:-1 group-title="Музыка",Europa Plus
+
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
 https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
-#EXTINF:-1 group-title="Музыка",Ru TV
+#EXTINF:-1 group-title="Музыка",RU TV
 https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыка",Жара ТВ
+#EXTINF:-1 group-title="Музыка",Жара
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="Музыка",Муз ТВ
+#EXTINF:-1 group-title="Музыка",МУЗ ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
 http://176.118.197.101/1HD/index.m3u8
@@ -171,7 +172,7 @@ https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 https://tinyurl.com/aleks-u-romki-40/13024/index.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
 https://tinyurl.com/aleks-u-romki-61/13024/index.m3u8
-#EXTINF:-1 group-title="Кино",А2
+#EXTINF:-1 group-title="Кино",Amedia 2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
@@ -193,7 +194,7 @@ https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 group-title="Кино",Русский бестселлер
+#EXTINF:-1 group-title="Кино",Русский Бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 group-title="Кино",Русский Детектив
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
@@ -203,7 +204,7 @@ https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 group-title="Кино",КиноАрм
 http://185.57.68.33:8091/255/index.m3u8
-#EXTINF:-1 group-title="Кино",НСТ
+#EXTINF:-1 group-title="Кино",Настоящее страшное телевидение
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Кино",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
