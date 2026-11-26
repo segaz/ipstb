@@ -129,7 +129,6 @@ https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF: -1 group-title="Музыка",Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-
 #EXTINF:-1 group-title="Разные",ЛюксТВ Тутаев (8.00-20.00) 
 https://www.lux-tv.ru/tvstream/hls/mystream.m3u8
 #EXTINF:-1 group-title="Разные",Камин
@@ -156,8 +155,6 @@ https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 group-title="Разные",Наша тема
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
-#EXTINF:-1 group-title="Разные",Точка отрыва
-https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Разные",Авто24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title="Разные",Диалоги о рыбалке
