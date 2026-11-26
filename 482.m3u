@@ -169,48 +169,6 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинопоказ
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Наше Новое Кино
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Родное Кино
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киносерия
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киносемья
-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинопремьера
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Индийское Кино
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Капитан Фантастика
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Дорама
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Арсенал 
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Bollywood
-https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" ,Телекафе
-https://stream8.Cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" ,Hollywood
-https://stream8.Cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" ,Мужское кино
-https://stream8.Cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" ,Дорама
-https://stream8.Cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КиноЗал",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="КиноЗал",Твоё ТВ
