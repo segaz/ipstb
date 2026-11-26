@@ -811,3 +811,11 @@ http://live.redtraffic.xyz/latina.m3u8
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 group-title="18+",Pornstar HD
 http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Инет",Бокс ТВ
+http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 group-title="TV-Line",KHL
+http://176.118.197.101/KHL/mono.m3u8
+#EXTINF:-1 group-title="TV-Line",tv1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+#EXTINF:-1 group-title="TV-Line",Кинопоказ
+http://176.118.197.101/Kinopokaz/mono.m3u8
