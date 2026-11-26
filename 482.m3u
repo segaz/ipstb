@@ -63,6 +63,16 @@ udp://@225.33.23.211:5000
 udp://@225.33.23.223:5000
 #EXTINF: -1 group-title="Детские",Карусель
 udp://@225.77.225.8:5000
+#EXTINF:-1 group-title="Детские",Мульт
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="Детские",В гостях у сказки HD
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 group-title="Детские",Супергерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Детские",Ani
+http://185.46.16.239:8000/Ani
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="Детские",СССР Мульт
@@ -73,6 +83,14 @@ https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 group-title="Спорт",Матч!
 udp://@225.77.225.3:5000
+#EXTINF:-1 group-title="Спорт",KHL
+http://176.118.197.101/KHL/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://185.46.16.239:8000/Match_Igra
 #EXTINF: -1 group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
@@ -148,7 +166,69 @@ http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Кино",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",КиноСезон
-http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8#EXTINF:-1 group-title="Кино",НСТ
+http://178.134.1.158:8081/nst/index.m3u8
+#EXTINF:-1 group-title="Кино",НСТ
+http://176.118.197.101/HCT/mono.m3u8
+#EXTINF:-1 group-title="Кино",Еврокино
+http://178.134.1.158:8081/eurokino/index.m3u8
+#EXTINF:-1 group-title="Кино",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="Кино",Shot
+http://178.134.1.158:8081/shottv/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинеко
+http://178.134.1.158:8081/kineko/index.m3u8
+#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино",tv1000 action
+http://178.134.1.158:8081/tv1000action/index.m3u8
+#EXTINF:-1 group-title="Кино",tv1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопоказ
+http://176.118.197.101/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносерия
+http://176.118.197.101/Kinoseria/mono.m3u8
+#EXTINF:-1 group-title="Кино",Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Кино",Комедия
+http://176.118.197.101/Komediya/mono.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 group-title="Кино",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Кино",Мир сериала
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Ретро
+http://176.118.197.101/Retro/mono.m3u8
+#EXTINF:-1 group-title="Кино",Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="Кино",Cinema
+http://178.134.1.158:8081/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино",Ностальгия
+http://176.118.197.101/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 group-title="Кино",Русский роман
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 group-title="Кино",Кино
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 group-title="Кино",Киномикс
+http://185.46.16.239:8000/Fox_Life_HD
+
 #EXTINF:-1 group-title="КиноЗал",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="КиноЗал",Твоё ТВ
