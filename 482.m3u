@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF: -1 group-title="Общие",Первый канал
 udp://@225.77.225.1:5000
 #EXTINF: -1 group-title="Общие",Россия 1
@@ -67,7 +67,7 @@ udp://@225.77.225.8:5000
 https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
 #EXTINF:-1 group-title="Детские",DuckTV
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
-#EXTINF:-1 group-title="Детские",Gulli girl
+#EXTINF:-1 group-title="Детские",Gulli Girl
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 #EXTINF:-1 group-title="Детские",Tiji
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
@@ -75,7 +75,7 @@ https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
 https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
-#EXTINF:-1 group-title="Детские",Супер Герои
+#EXTINF:-1 group-title="Детские",СуперГерои
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
@@ -91,9 +91,9 @@ udp://@225.77.225.3:5000
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF: -1 group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ! Игра
+#EXTINF:-1 group-title="Спорт",Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
-#EXTINF:-1 group-title="Спорт", МАТЧ! Страна
+#EXTINF:-1 group-title="Спорт", Матч! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
@@ -105,8 +105,6 @@ http://31.148.5.241/Match_Football_2_HD/index.m3u8
 http://31.148.5.241/Match_Football_3_HD/index.m3u8
 #EXTINF: -1 group-title="Музыка",МУЗ-ТВ
 udp://@225.77.225.20:5000
-#EXTINF: -1 group-title="Музыка",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF: -1 group-title="Музыка",Новое Радио Хит
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Музыка",Страна FM
@@ -121,6 +119,14 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
 #EXTINF:-1 group-title="Музыка",FON MUSIC
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
+#EXTINF:-1 group-title="Музыка",Europa Plus
+https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+#EXTINF:-1 group-title="Музыка",Ru TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+#EXTINF:-1 group-title="Музыка",Жара ТВ
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
@@ -151,21 +157,21 @@ https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 #EXTINF:-1 group-title="Разные",Здоровое ТВ
 https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
-#EXTINF:-1 group-title="Разные",Моя планета
+#EXTINF:-1 group-title="Разные",Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 group-title="Разные",Наша тема
+#EXTINF:-1 group-title="Разные",Наша Тема
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
-#EXTINF:-1 group-title="Разные",Авто24
+#EXTINF:-1 group-title="Разные",Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title="Разные",Диалоги о рыбалке
 https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
-#EXTINF:-1 group-title="Разные",Загородная Жизнь
+#EXTINF:-1 group-title="Разные",Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
 https://tinyurl.com/aleks-u-romki-40/13024/index.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
 https://tinyurl.com/aleks-u-romki-61/13024/index.m3u8
-#EXTINF:-1 group-title="Кино",A2
+#EXTINF:-1 group-title="Кино",А2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
@@ -187,13 +193,13 @@ https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 group-title="Кино",Русский Бестселлер
+#EXTINF:-1 group-title="Кино",Русский бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 group-title="Кино",Русский Детектив
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
-#EXTINF:-1 group-title="Кино",Русский Роман
+#EXTINF:-1 group-title="Кино",Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
-#EXTINF:-1 group-title="Кино",Sci Fi
+#EXTINF:-1 group-title="Кино",.sci-fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 group-title="Кино",КиноАрм
 http://185.57.68.33:8091/255/index.m3u8
@@ -205,9 +211,9 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино",Иллюзион+
+#EXTINF:-1 group-title="Кино",Иллюзион +
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Кино",Shot
+#EXTINF:-1 group-title="Кино",SHOT TV
 http://178.134.1.158:8081/shottv/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -215,13 +221,13 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино",Мир сериала
+#EXTINF:-1 group-title="Кино",Мир Сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Кино",Ретро
+#EXTINF:-1 group-title="Кино",Ретро ТВ
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="Кино",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="Кино",Т24
+#EXTINF:-1 group-title="Кино",Техно 24
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
@@ -241,8 +247,6 @@ http://176.118.197.101/Dom_kino/index.m3u8
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="Кино",Ретро
-http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="КиноЗал",Смотрим
