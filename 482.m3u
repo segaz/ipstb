@@ -169,42 +169,32 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/mono.m3u8
-
-#EXTINF:-1 group-title="Кино" , Красная линия
+#EXTINF:-1 group-title="Кино",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Т24
+#EXTINF:-1 group-title="Кино",Т24
 http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" , НТВ-Хит
-http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" , НТВ-Сериал 
-http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV-Line",Кинопоказ
+#EXTINF:-1 group-title="Кино",Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="TV-Line",Кинокомедия
+#EXTINF:-1 group-title="Кино",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Киномикс
+#EXTINF:-1 group-title="Кино",Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Киносерия
+#EXTINF:-1 group-title="Кино",Киносерия
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 group-title="TV-Line",Родное кино
+#EXTINF:-1 group-title="Кино",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Комедия
+#EXTINF:-1 group-title="Кино",Комедия
 http://176.118.197.101/Komediya/mono.m3u8
-#EXTINF:-1 group-title="TV-Line",Дом Кино
+#EXTINF:-1 group-title="Кино",Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Любимое кино
+#EXTINF:-1 group-title="Кино",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Мир сериала
-http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Bollywood HD
+#EXTINF:-1 group-title="Кино",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Ретро
+#EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/mono.m3u8
-#EXTINF:-1 group-title="TV-Line",Cinema
+#EXTINF:-1 group-title="Кино",Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Cinema
-http://178.134.1.158:8081/cinema/index.m3u8
-
 #EXTINF:-1 group-title="КиноЗал",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="КиноЗал",Твоё ТВ
