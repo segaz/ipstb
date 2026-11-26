@@ -63,16 +63,6 @@ udp://@225.33.23.211:5000
 udp://@225.33.23.223:5000
 #EXTINF: -1 group-title="Детские",Карусель
 udp://@225.77.225.8:5000
-#EXTINF:-1 group-title="Детские",Мульт
-http://185.46.16.239:8000/Mult
-#EXTINF:-1 group-title="Детские",Мульт HD
-http://185.46.16.239:8000/Mir_24
-#EXTINF:-1 group-title="Детские",В гостях у сказки HD
-http://185.46.16.239:8000/V_gostyakh_u_skazki
-#EXTINF:-1 group-title="Детские",Супергерои
-http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="Детские",Ani
-http://185.46.16.239:8000/Ani
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="Детские",СССР Мульт
@@ -83,14 +73,8 @@ https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 group-title="Спорт",Матч!
 udp://@225.77.225.3:5000
-#EXTINF:-1 group-title="Спорт",KHL
+#EXTINF:-1 group-title="Спорт",КХЛ
 http://176.118.197.101/KHL/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Бокс ТВ
-http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://185.46.16.239:8000/Match_Nash_Sport
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://185.46.16.239:8000/Match_Igra
 #EXTINF: -1 group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
