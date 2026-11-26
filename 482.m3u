@@ -123,6 +123,8 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 group-title="Разные",Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+#EXTINF:-1 group-title="Разные",Ностальгия
+http://176.118.197.101/Nostalgiya/mono.m3u8
 #EXTINF:-1 group-title="Разные",Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
@@ -137,7 +139,7 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 group-title="Кино",viju TV1000 action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 group-title="Кино",viju TV1000 русское
+#EXTINF:-1 group-title="Кино",viju TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 group-title="Кино",viju+ Comedy
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
@@ -152,24 +154,14 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8#EXTINF:-1 group-title="Кино",НСТ
 http://178.134.1.158:8081/nst/index.m3u8
-#EXTINF:-1 group-title="Кино",НСТ
-http://176.118.197.101/HCT/mono.m3u8
-#EXTINF:-1 group-title="Кино",Еврокино
-http://178.134.1.158:8081/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино",Shot
 http://178.134.1.158:8081/shottv/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинеко
-http://178.134.1.158:8081/kineko/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино",tv1000 action
-http://178.134.1.158:8081/tv1000action/index.m3u8
-#EXTINF:-1 group-title="Кино",tv1000
-http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
@@ -194,25 +186,6 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-http://178.134.1.158:8081/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино",Ностальгия
-http://176.118.197.101/Nostalgiya/mono.m3u8
-#EXTINF:-1 group-title="Кино",Иллюзион+
-http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
-http://185.46.16.239:8000/Nickelodeon
-#EXTINF:-1 group-title="Кино",Русский роман
-http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 group-title="Кино",Кино
-http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="Кино",Кинокомедия
-http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 group-title="Кино",Киномикс
-http://185.46.16.239:8000/Fox_Life_HD
-
 #EXTINF:-1 group-title="КиноЗал",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="КиноЗал",Твоё ТВ
