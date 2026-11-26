@@ -63,6 +63,20 @@ udp://@225.33.23.211:5000
 udp://@225.33.23.223:5000
 #EXTINF: -1 group-title="Детские",Карусель
 udp://@225.77.225.8:5000
+#EXTINF:-1 group-title="Детские",СТС Kids
+https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+#EXTINF:-1 group-title="Детские",DuckTV
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 group-title="Детские",Gulli girl
+https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+#EXTINF:-1 group-title="Детские",Tiji
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+#EXTINF:-1 group-title="Детские",Супер Герои
+https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="Детские",СССР Мульт
