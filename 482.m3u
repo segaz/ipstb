@@ -129,6 +129,7 @@ https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF: -1 group-title="Музыка",Radio M2O 
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+
 #EXTINF:-1 group-title="Разные",ЛюксТВ Тутаев (8.00-20.00) 
 https://www.lux-tv.ru/tvstream/hls/mystream.m3u8
 #EXTINF:-1 group-title="Разные",Камин
@@ -145,6 +146,24 @@ https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 http://176.118.197.101/Nostalgiya/mono.m3u8
 #EXTINF:-1 group-title="Разные",Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разные",viju Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="Разные",viju History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="Разные",Здоровое ТВ
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+#EXTINF:-1 group-title="Разные",Моя планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="Разные",Наша тема
+https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
+#EXTINF:-1 group-title="Разные",Точка отрыва
+https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+#EXTINF:-1 group-title="Разные",Авто24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 group-title="Разные",Диалоги о рыбалке
+https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
+#EXTINF:-1 group-title="Разные",Загородная Жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
 https://tinyurl.com/aleks-u-romki-40/13024/index.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
