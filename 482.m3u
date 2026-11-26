@@ -63,18 +63,6 @@ udp://@225.33.23.211:5000
 udp://@225.33.23.223:5000
 #EXTINF: -1 group-title="Детские",Карусель
 udp://@225.77.225.8:5000
-#EXTINF:-1 group-title="Детские",Мама
-http://31.210.208.171:8080/mama/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Детские",МУЛЬТ
-http://31.210.208.171:8080/mult_HD/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Детские",Мультимузыка
-http://31.210.208.171:8080/mult_i_muzika/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Детские",В гостях у сказки
-http://31.210.208.171:8080/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Детские",Tiji
-http://31.210.208.171:8080/tiji/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Детские",Ani
-http://31.210.208.171:8080/ani/tracks-v1a1/mono.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="Детские",СССР Мульт
@@ -85,22 +73,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 group-title="Спорт",Матч!
 udp://@225.77.225.3:5000
-#EXTINF: -1 group-title="Спорт",Матч! Игра
-http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF: -1 group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF: -1 group-title="Спорт",Матч! Страна
-http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ
-http://31.210.208.171:8080/khl/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт",Бокс ТВ
-http://31.210.208.171:8080/box_tv/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт",Старт
-http://31.210.208.171:8080/start/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://31.210.208.171:8080/match_boec/tracks-v1a1/mono.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
@@ -117,14 +93,8 @@ http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF: -1 group-title="Музыка",MCM
 http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Музыка",RU TV
-http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title='Музыка',Ля-минор ТВ
 https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Музыка",Жара
-http://31.210.208.171:8080/jara/index.m3u8?token=+W2MSER
-#EXTINF: -1 group-title="Музыка",О2ТВ
-http://31.210.208.171:8080/o2/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
@@ -143,36 +113,6 @@ https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 https://www.lux-tv.ru/tvstream/hls/mystream.m3u8
 #EXTINF:-1 group-title="Разные",Камин
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 group-title="Разные",Оружие
-http://31.210.208.171:8080/oruzhie/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Зоо ТВ
-http://31.210.208.171:8080/zoopark/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",История
-http://31.210.208.171:8080/istoriya/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Сарафан ТВ
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Загородная жизнь
-http://31.210.208.171:8080/zagorodnaya_zhizn/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",КВН ТВ
-http://31.210.208.171:8080/kvn_tv/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Психология 21
-http://31.210.208.171:8080/psihologiya/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",8 Канал
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 group-title="Разные",Ностальгия
-http://31.210.208.171:8080/nostalgiya/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",viju Explore
-http://31.210.208.171:8080/viju_explore/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",viju History
-http://31.210.208.171:8080/viju_history/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Живая планета
-http://31.210.208.171:8080/zhivaya_planeta/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Авто 24
-http://31.210.208.171:8080/avto_24/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Кто есть кто
-http://31.210.208.171:8080/kto_est_kto/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Разные",Кухня
-http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Разные",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Разные",viju Nature
@@ -181,8 +121,6 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 group-title="Разные",Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 group-title="Разные",Наша тема
-http://31.210.208.171:8080/nasha_tema/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Разные",Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Агата Кристи
@@ -205,58 +143,8 @@ https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 group-title="Кино",viju+ Premiere
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 group-title="Кино",FAN
-http://31.210.208.171:8080/fan/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Русский роман
-http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Еврокино
-http://31.210.208.171:8080/evrokino/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Телекафе
-http://31.210.208.171:8080/telecafe/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Cinema
-http://31.210.208.171:8080/cinema/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",ВРЕМЯ
-http://31.210.208.171:8080/vremya/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Дорама
-http://31.210.208.171:8080/dorama/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Дом кино
-http://31.210.208.171:8080/dom_kino/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Кинеко
-http://31.210.208.171:8080/kineko/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Комедия
-http://31.210.208.171:8080/komedia/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Киноужас
-http://31.210.208.171:8080/kinouzhas/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Киносвидание
-http://31.210.208.171:8080/kinosvidanie/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Мужское кино
-http://31.210.208.171:8080/muzhskoe_kino/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Наше Новое Кино
-http://31.210.208.171:8080/nashe_novoe_kino/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Родное кино
-http://31.210.208.171:8080/rodnoe_kino/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Кинокомедия
-http://31.210.208.171:8080/kinokomedia/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Киносемья
-http://31.210.208.171:8080/kinofamily/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Киносат
-http://31.210.208.171:8080/kinoman/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Индия
-http://31.210.208.171:8080/indiya/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Кинохит
-http://31.210.208.171:8080/kinohit/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Настоящее Страшное Телевидение
-http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино",НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="Кино",Shot TV
-http://31.210.208.171:8080/shottv/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://31.210.208.171:8080/kinotv/tracks-v1a1/mono.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино",Красная линия
-http://31.210.208.171:8080/krasnaya_liniya/tracks-v1a1/mono.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",КиноСезон
@@ -891,57 +779,3 @@ http://live.redtraffic.xyz/latina.m3u8
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 group-title="18+",Pornstar HD
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="CineMan",Cartoons 90
-https://tinyurl.com/aleks-u-romki-101/1252/index.m3u8
-#EXTINF:-1 group-title="CineMan",Cartoons Big
-https://tinyurl.com/aleks-u-romki-101/1254/index.m3u8
-#EXTINF:-1 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman.png",CineMan Tom and Jerry	
-https://tinyurl.com/aleks-u-romki-101/1253/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan
-https://tinyurl.com/aleks-u-romki-101/1255/index.m3u8
-#EXTINF:-1 group-title="CineMan" tvg-id="664.213",CineMan Top
-https://tinyurl.com/aleks-u-romki-101/1256/index.m3u8
-#EXTINF:-1 group-title="CineMan" tvg-id="665.215",CineMan Action
-https://tinyurl.com/aleks-u-romki-101/1257/index.m3u8
-#EXTINF:-1 group-title="CineMan" tvg-id="666.216",CineMan Thriller
-https://tinyurl.com/aleks-u-romki-101/1258/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Melodrama
-https://tinyurl.com/aleks-u-romki-101/1259/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Marvel
-https://tinyurl.com/aleks-u-romki-101/1260/index.m3u8
-#EXTINF:-1 group-title="CineMan" ,CineMan Ужасы
-https://tinyurl.com/aleks-u-romki-101/1261/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Комедия
-https://tinyurl.com/aleks-u-romki-101/1262/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan VHS
-https://tinyurl.com/aleks-u-romki-101/1263/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan РуКино
-https://tinyurl.com/aleks-u-romki-101/1264/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Сваты
-https://tinyurl.com/aleks-u-romki-101/1265/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Скорая помощь
-https://tinyurl.com/aleks-u-romki-101/1266/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Симпсоны
-https://tinyurl.com/aleks-u-romki-101/1267/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Катастрофы
-https://tinyurl.com/aleks-u-romki-101/1271/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Ментовские Войны
-https://tinyurl.com/aleks-u-romki-101/1295/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan MiniSeries
-https://tinyurl.com/aleks-u-romki-101/1413/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Криминальные сериалы
-https://tinyurl.com/aleks-u-romki-101/1580/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Комедийные сериалы
-https://tinyurl.com/aleks-u-romki-101/1581/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Военные сериалы
-https://tinyurl.com/aleks-u-romki-101/2066/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan CCCP
-https://tinyurl.com/aleks-u-romki-101/2214/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Air Crash
-https://tinyurl.com/aleks-u-romki-101/2298/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Дубляж СССР
-https://tinyurl.com/aleks-u-romki-101/2300/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan ПёС + Лихач
-https://tinyurl.com/aleks-u-romki-101/1296/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Лесник
-https://tinyurl.com/aleks-u-romki-101/1297/index.m3u8
